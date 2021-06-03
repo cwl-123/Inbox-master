@@ -1,0 +1,13 @@
+spring:
+  mail:
+    protocol: smtp
+    host: imap.qq.com
+    port: 25
+    username: 3412472182@qq.com
+    password: 123456cwl
+    default-encoding: UTF-8
+    properties:
+      mail:
+        debug: true
+
+#自定义配置
